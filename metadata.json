@@ -1,0 +1,6 @@
+{
+  "name": "AegisPHP — UK-Compliant Bot, IP & Input Defense Suite",
+  "description": "PHP security middleware generator and live threat screening workbench using IP reputation, behavioral input entropy, email format verification, HTTP header inspection, and UK GDPR/PECR screening consent banners for SMTP and DM protection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
